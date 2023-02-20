@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rickandmorty.Api", "Rickandmorty.Api\Rickandmorty.Api.csproj", "{2BC90F99-385B-4AC5-B059-F57123453AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rickandmorty.Contracts", "Rickandmorty.Contracts\Rickandmorty.Contracts.csproj", "{D58804F2-1C74-482A-B626-5316CA0EAC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rickandmorty.Data", "Rickandmorty.Data\Rickandmorty.Data.csproj", "{64DACC54-4E6F-4B69-A4C4-B78684C13E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rickandmorty.DTO", "Rickandmorty.DTO\Rickandmorty.DTO.csproj", "{89379EDE-2EF1-478C-B59D-F357BC8316E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rickandmorty.Entity", "Rickandmorty.Entity\Rickandmorty.Entity.csproj", "{71852403-C44F-4EBE-A259-01AFA1B98460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rickandmorty.Logic", "Rickandmorty.Logic\Rickandmorty.Logic.csproj", "{6A3707A1-CBA5-4E2A-8864-8B840593B1A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC90F99-385B-4AC5-B059-F57123453AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC90F99-385B-4AC5-B059-F57123453AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC90F99-385B-4AC5-B059-F57123453AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC90F99-385B-4AC5-B059-F57123453AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58804F2-1C74-482A-B626-5316CA0EAC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58804F2-1C74-482A-B626-5316CA0EAC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58804F2-1C74-482A-B626-5316CA0EAC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58804F2-1C74-482A-B626-5316CA0EAC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DACC54-4E6F-4B69-A4C4-B78684C13E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DACC54-4E6F-4B69-A4C4-B78684C13E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DACC54-4E6F-4B69-A4C4-B78684C13E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DACC54-4E6F-4B69-A4C4-B78684C13E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89379EDE-2EF1-478C-B59D-F357BC8316E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89379EDE-2EF1-478C-B59D-F357BC8316E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89379EDE-2EF1-478C-B59D-F357BC8316E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89379EDE-2EF1-478C-B59D-F357BC8316E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71852403-C44F-4EBE-A259-01AFA1B98460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71852403-C44F-4EBE-A259-01AFA1B98460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71852403-C44F-4EBE-A259-01AFA1B98460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71852403-C44F-4EBE-A259-01AFA1B98460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3707A1-CBA5-4E2A-8864-8B840593B1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3707A1-CBA5-4E2A-8864-8B840593B1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3707A1-CBA5-4E2A-8864-8B840593B1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3707A1-CBA5-4E2A-8864-8B840593B1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5AA828-15B3-42AD-B623-B2094D444783}
+	EndGlobalSection
+EndGlobal
