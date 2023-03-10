@@ -1,3 +1,6 @@
+## Test task solution: 
+https://docs.google.com/document/d/1L6q4M_x9ekkTJStjsU19cX3fRPp-BKaZkUNfe0dQo-A/edit?usp=sharing
+
 # Rickandmorty - ASP.NET Web API
 
 # Database (SQL Server) :
